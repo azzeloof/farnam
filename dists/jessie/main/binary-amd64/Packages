@@ -1,0 +1,16 @@
+Package: farnam
+Version: 0.1-1
+Architecture: all
+Maintainer: Adam Zeloof <azz@cmu.edu>
+Installed-Size: 19
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/f/farnam/farnam_0.1-1_all.deb
+Size: 2844
+SHA256: c2ecf274615d5f08a802a0dc30fa78f961cc686dad7e39bab2c74e4ff7fb28ce
+SHA1: c3ba53b5ffc85e5d7627ef20e71bcbd548a2fc34
+MD5sum: 3bd163f7bc2d082ff14027925fcb489c
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

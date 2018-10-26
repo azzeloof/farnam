@@ -1,0 +1,17 @@
+Codename: jessie
+Date: Fri, 26 Oct 2018 03:18:20 UTC
+Architectures: amd64
+Components: main
+Description: Repo
+MD5Sum:
+ c3da7fdd4824ad81dc06bc6e0d6e6737 512 main/binary-amd64/Packages
+ 60181503f3a3a5ad2d5a789604837489 384 main/binary-amd64/Packages.gz
+ f4761e29696049f1759d94ada26ba13c 54 main/binary-amd64/Release
+SHA1:
+ 78594d890d6fd6a8720772a0ea570a9789eda73f 512 main/binary-amd64/Packages
+ 1ecdbef93ccb7a4da96607c1ca1d7954a3d248b5 384 main/binary-amd64/Packages.gz
+ 9d783f80c7ccbb0f0d5f9f373381f5cbf07ac2d0 54 main/binary-amd64/Release
+SHA256:
+ 084ada4b8cf16e84e7c184deb68be36e19c83fcc7832d5c1bcae9193acaa76e0 512 main/binary-amd64/Packages
+ 68090c1aefbf602a98101ee22ff151ed3c97912f6b6d4a8724f1b804c9b84e2e 384 main/binary-amd64/Packages.gz
+ 17178e18c69f9c40c45597989767d5d7ceb89fb26019b4283afab1e0375194bc 54 main/binary-amd64/Release
